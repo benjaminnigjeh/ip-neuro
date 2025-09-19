@@ -1,0 +1,11 @@
+name: explainable-ai-legacy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.19
+  - numpy=1.24.4
+  - pandas=2.0.3
+  - pip
+  - pip:
+      - fisher-py
