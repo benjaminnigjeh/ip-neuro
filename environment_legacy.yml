@@ -6,6 +6,9 @@ dependencies:
   - python=3.8.19
   - numpy=1.24.4
   - pandas=2.0.3
+  - ipykernel
   - pip
   - pip:
       - fisher-py
+      - tqdm
+      - h5py
