@@ -12,3 +12,4 @@ dependencies:
       - fisher-py
       - tqdm
       - h5py
+      - matplotlib
